@@ -92,4 +92,3 @@ Ensure you have the following installed before setting up the project:
 ---
 
 Feel free to contribute to this project by submitting pull requests or opening issues! 🚀
-
